@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Dan-Website/static/css/main.dbf60630.css",
+    "main.js": "/Dan-Website/static/js/main.c6a251bb.js",
+    "static/media/gallery-4.jpeg": "/Dan-Website/static/media/gallery-4.0004c8846315d71a02ac.jpeg",
+    "static/media/Home.jpeg": "/Dan-Website/static/media/Home.3c2dd6db9536e46d5b9a.jpeg",
+    "static/media/gallery-3.jpeg": "/Dan-Website/static/media/gallery-3.fbb37d4e389f6f742f86.jpeg",
+    "static/media/gallery-6.jpeg": "/Dan-Website/static/media/gallery-6.2eb1d4d64b30c0743477.jpeg",
+    "static/media/gallery-5.jpeg": "/Dan-Website/static/media/gallery-5.5e4a2e03cdb934ee0878.jpeg",
+    "static/media/gallery-2.jpeg": "/Dan-Website/static/media/gallery-2.dc87f04fe32c696cb3df.jpeg",
+    "static/media/gallery-1.jpeg": "/Dan-Website/static/media/gallery-1.4010d444b532c5240778.jpeg",
+    "static/media/gallery-8.jpeg": "/Dan-Website/static/media/gallery-8.d3f89a6e8dc4840ecd05.jpeg",
+    "index.html": "/Dan-Website/index.html",
+    "main.dbf60630.css.map": "/Dan-Website/static/css/main.dbf60630.css.map",
+    "main.c6a251bb.js.map": "/Dan-Website/static/js/main.c6a251bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbf60630.css",
+    "static/js/main.c6a251bb.js"
+  ]
+}
